@@ -5,7 +5,6 @@
 > combining transformer-based NLP, zero-shot classification, and custom business metrics
 > to identify $2.7M in revenue at risk across 20 product categories.
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-NovyPro-blue?style=for-the-badge)](https://app.powerbi.com/links/HdwtPN2UKo?ctid=a63ade61-7bd6-415a-9dca-45db107b9972&pbi_source=linkShare&bookmarkGuid=0a049634-97bb-441f-aa72-7fe63f0cf3de)
 [![Python](https://img.shields.io/badge/Python-3.10-yellow?style=for-the-badge&logo=python)](https://python.org)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange?style=for-the-badge&logo=powerbi)]
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-NLP-red?style=for-the-badge)](https://huggingface.co)
@@ -189,7 +188,7 @@ Period:        Sep 2016 – Aug 2018
 Focused on AI-augmented analytics — combining NLP, business intelligence,
 and data storytelling to turn raw data into decisions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohd-taha-ahmad-0772b5167/)
 
 (https://app.powerbi.com/links/HdwtPN2UKo?ctid=a63ade61-7bd6-415a-9dca-45db107b9972&pbi_source=linkShare&bookmarkGuid=0a049634-97bb-441f-aa72-7fe63f0cf3de)
 

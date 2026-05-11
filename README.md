@@ -8,7 +8,7 @@
 
 ---
 
-![Uploading Executive Overview.png…]()
+<img width="1297" height="731" alt="Executive Overview" src="https://github.com/user-attachments/assets/496e535d-588f-409f-8784-cbcb9505840f" />
 
 > *Executive Overview — Revenue vs Sentiment scatter · AI Health Score by category · $2.7M risk mapped*
 

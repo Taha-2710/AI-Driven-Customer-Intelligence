@@ -8,7 +8,7 @@
 
 ---
 
-!![Uploading Executive Overview.png…]()
+![Uploading Executive Overview.png…]()
 
 > *Executive Overview — Revenue vs Sentiment scatter · AI Health Score by category · $2.7M risk mapped*
 
